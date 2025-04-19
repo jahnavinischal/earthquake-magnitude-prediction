@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1190220403adc81121fda4d32046f71bcd39f99508021c8d2e6c1bceca86cb5f
-size 49
+gdown
+streamlit
+joblib
+pandas
+numpy
+scikit-learn
