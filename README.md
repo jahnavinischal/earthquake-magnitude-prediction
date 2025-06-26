@@ -1,4 +1,4 @@
-# 🌍 Earthquake Prediction Web App
+# 🌍 Earthquake Magnitude Prediction Web App
 
 A machine learning-powered web application that predicts the likelihood of earthquakes based on a 30-year historical dataset. Built using **Streamlit**, this app leverages data-driven models to offer quick predictions and insights.
 
