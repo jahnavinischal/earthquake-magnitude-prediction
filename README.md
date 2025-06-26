@@ -17,7 +17,7 @@ The dataset used spans **30 years** of global earthquake data, sourced from [Kag
 
 - **Python**
 - **Pandas, NumPy, Scikit-learn** for data processing and modeling
-- **Streamlit** for the web interface
+- **Streamlit** for the web interface and deployment
 - **Pickle (.pkl)** files for model storage
 
 ## 🚀 Features
