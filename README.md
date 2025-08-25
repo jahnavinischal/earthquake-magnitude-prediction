@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts the likelihood of earth
 
 ---
 
-![App Screenshot](<img width="1873" height="931" alt="image" src="https://github.com/user-attachments/assets/46ee4c49-2e6e-466b-9e72-2cc056c9bd69" />)  
+(<img width="1873" height="931" alt="image" src="https://github.com/user-attachments/assets/46ee4c49-2e6e-466b-9e72-2cc056c9bd69" />)  
 *Screenshot of the Streamlit Web App Interface*
 
 ---
