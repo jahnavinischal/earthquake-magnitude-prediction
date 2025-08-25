@@ -1,2 +1,3 @@
 *.pkl
 model_links.py
+.streamlit/secrets.toml
